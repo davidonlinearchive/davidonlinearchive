@@ -34,7 +34,7 @@ A directory enumeration tool designed for rapid path discovery and security asse
 
 **Repo:** [sdirb](https://github.com/davidonlinearchive/sdirb)
 
-### GCP Terraform Starter
+### Google Cloud Terraform Starter
 An automated Terraform project to deploy a secure, Debian web server on Google Cloud Platform.
 
 **Key Features:**
