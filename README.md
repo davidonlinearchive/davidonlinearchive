@@ -1,7 +1,5 @@
 # Greetings friend, I'm David (davidonlinearchive) 🖖
 
----
-
 ## About Me
 I am an Offensive Security Enthusiast specializing in Web, API, and Google Cloud Platform (GCP) testing. When I am not hunting for vulnerabilities, I am building automated infrastructure and dabbling in cloud engineering with GCP.
 
@@ -10,7 +8,6 @@ I am an Offensive Security Enthusiast specializing in Web, API, and Google Cloud
 * I enjoy writing Offensive security tools
 * I'm looking to collaborate with Cyber Security Enthusiasts and Hackers
 
----
 
 ## Projects
 
@@ -45,12 +42,10 @@ An automated Terraform project to deploy a secure, Debian web server on Google C
 **Technologies:** Google Cloud, Terraform, Debian
 **Repo:** [gcp-terraform-starter](https://github.com/davidonlinearchive/gcp-terrafrom-starter)
 
----
 
 ## Programming Languages
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) [![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
----
 
 ## Cloud and OS
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#) [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#) [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
