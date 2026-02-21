@@ -24,7 +24,7 @@ A virtualized offensive security environment built to simulate a corporate infra
 **Repo:** [Active-Directory-Lab](https://github.com/davidonlinearchive/Active-Directory-Lab)
 
 ### SDirB
-A directory enumeration tool designed for rapid path discovery and security assessment of web applications.
+A web apps enumeration tool designed for rapid discovery of directories using worlists
 
 **Key Features:**
 * Utilizes Go worker pools and goroutines for performant, multi-threaded discovery
