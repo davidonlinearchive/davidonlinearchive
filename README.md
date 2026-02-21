@@ -1,4 +1,4 @@
-# Greetings friend, I'm David (davidonlinearchive) 🖖
+# Good day friend, I'm David (davidonlinearchive) 🖖
 ![MS GIF](./MS.gif)
 ## About Me
 I am an Offensive Security Enthusiast specializing in Web, API, and Google Cloud Platform (GCP) testing. When I am not hunting for vulnerabilities, I am building automated infrastructure and dabbling in cloud engineering with GCP.
