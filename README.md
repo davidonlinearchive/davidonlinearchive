@@ -43,7 +43,7 @@ An automated Terraform project to deploy a secure, Debian web server on Google C
 
 **Technologies:** Google Cloud, Terraform, Debian
 
-**Repo:** [gcp-terraform-starter](https://github.com/davidonlinearchive/gcp-terrafrom-starter)
+**Repo:** [gcp-terraform-starter](https://github.com/davidonlinearchive/gcp-terraform-starter)
 
 
 ## Programming Languages
