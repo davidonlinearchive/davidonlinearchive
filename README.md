@@ -1,5 +1,5 @@
 # Good day friend, I'm David (davidonlinearchive) 🌀
-![MS GIF](./MS.gif)
+
 ## About Me
 I am an Offensive Security Enthusiast specializing in Web, API, and AWS Red Teaming.When I am not hunting for vulnerabilities or exploring cloud security, I am building automated infrastructure and practicing cloud engineering.
 
