@@ -3,7 +3,7 @@
 ## About Me
 I am an Offensive Security Enthusiast specializing in Web, API, and AWS Red Teaming.When I am not hunting for vulnerabilities or exploring cloud security, I am building automated infrastructure and practicing cloud engineering.
 
-* I'm currently learning Red Team Operations
+* I'm currently learning Red Team Operations and C2 Development
 * I participate and blog some CTF Challenges here: [dev.to/davidonlinearchive](https://dev.to/davidonlinearchive)
 * I enjoy writing Offensive security tools
 * I'm looking to collaborate with Cyber Security Enthusiasts and Hackers
